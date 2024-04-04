@@ -17,5 +17,3 @@ Hi there 👋
 - 🌱 I’m currently learning C
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixu42&layout=compact&theme=transparent)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ixu42&theme=transparent)](https://git.io/streak-stats)
