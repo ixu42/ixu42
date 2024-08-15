@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" title="Docker"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixu42&layout=compact&theme=transparent)
-
 <h2 align="left">My stats 📈</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ixu42&theme=transparent)](https://git.io/streak-stats)
