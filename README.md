@@ -16,7 +16,7 @@
 
 <h2 align="center" >My toolkit 🧰</h2>
 
-<p>
+<div align="center">
     <a href="https://github.com/Aveek-Saha/GitHub-Profile-Badges">
         <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" title="C">
         <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="C++" title="C++">
@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" title="Jupyter Notebook">
         <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" title="Docker">
     </a>
-</p>
+</div>
 
 <h2 align="center">My stats 📈</h2>
 
