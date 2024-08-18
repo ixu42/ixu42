@@ -1,8 +1,14 @@
-<h1 align="center">Hi and welcome to my GitHub page 👋</h1>
+<img align="center" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="coder gif"/>
 
-🐝 My name is Ivy. I'm studying at [Hive Helsinki](https://www.hive.fi/en/) (part of the [42 network](https://www.42network.org/))
+<h6 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Ivy+%F0%9F%90%9D"/>
+</h6>
 
-<h2 align="left">My toolkit 🧰</h2>
+<h3 align="center">
+  Currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki</a> (part of the <a href="https://www.42network.org/">42 network</a>)
+</h3>
+
+<h2 align="left" >My toolkit 🧰</h2>
 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" title="C"/>
