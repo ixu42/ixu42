@@ -10,9 +10,9 @@
     </a>
 </h6>
 
-<p align="center">
-    Currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki</a> (part of the <a href="https://www.42network.org/">42 network</a>)
-</p>
+- 🌱 Currently studying at [Hive Helsinki]("https://www.hive.fi/en/") (part of the [42 network]("https://www.42network.org/")).
+ 
+- 💻 I like solving problems through programming, leveraging my skills in languages like C, C++, and Python. My passion lies in creating efficient and effective solutions across various domains.
 
 <h2 align="center" >My toolkit 🧰</h2>
 
